@@ -5,7 +5,7 @@
 
 -  Codable Protocol
 
-- Getting data from Open Weather API and using JSON Data - https://openweathermap.org/api
+-  Getting data from Open Weather API and using JSON Data - https://openweathermap.org/api
 
 - Collection Views
 
